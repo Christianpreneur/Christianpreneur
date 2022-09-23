@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Christianpreneur 
+- 👋 Hello, I’m @Sam-Onyeji
 - 👀 I’m interested in raising godly homes, restoring family values in the society and discipling Christian entrepreneurs.
 - 🌱 I’m currently learning software engeineering at ALX.
 - 💞️ I’m looking to collaborate on developing softwares that will help in solving marriage and family-related problems.
