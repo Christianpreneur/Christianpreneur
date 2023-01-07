@@ -1,10 +1,9 @@
-- 👋 Hello, I’m @Sam-Onyeji
-- 👀 I’m interested in raising godly homes, restoring family values in the society and discipling Christian entrepreneurs.
-- 🌱 I’m currently learning software engeineering at ALX.
-- 💞️ I’m looking to collaborate on developing softwares that will help in solving marriage and family-related problems.
-- 📫 How to reach me on WhatsApp: https://wa.me/message/NQELMMOWJB2TK1
+# Higher-level programming - Python 3 
 
-<!---
-Christianpreneur/Christianpreneur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains some of the programs written for the higher-level programming track at ALX Software Engineeringprogramme.
+
+These projects began at the Sprint 2 of the Foundation  Curriculum.
+
+Simultaneously, I continued to reinforce and expand my skills in C and shell scripting. The specific list of projects contained are as follows:
+
+* [0x00. Python - Hello, World] (./0x00-python-hello_world) This repository contains programs written for the higher-level programming track which is part of Sprint 2 in the ALX Afria Foundation Curticulum. I am currently learning Python.
